@@ -47,6 +47,12 @@ __SQL__
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
+
+__Qase__
+  * know how to create a team
+  * able to create projects and track their progress
+  * know how to create bug reports
+  * know how to create test cases and use shared steps
   
  __Postman__
   * know how to create automated API requests and collections of requests
