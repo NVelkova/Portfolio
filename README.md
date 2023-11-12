@@ -27,7 +27,10 @@ __Manual Testing__
   * gained hands-on experience by testing embedded applications during my recent internship
   * gained hands-on experience by testing a web application https://www.saucedemo.com/ and using Qase.io as a Test Management system during my recent hands-on training program
 
-Here is an example of the project in Qase.io: 
+Here are examples of the project in Qase.io: 
+* [The project repository in Qase.io](https://drive.google.com/file/d/1sWiQGOzPJWiby3oGnoPP01SLqKMZwifl/view?usp=sharing)
+* [Test cases in the Regression suit](https://drive.google.com/file/d/1Lh-ZD0vc1av_PzVMN_ryXjLkFNg5nEPJ/view?usp=sharing)
+* [Bug reports](https://drive.google.com/file/d/1buRkskAfgL3cRWWpg6LZP1XUD-EMf7gj/view?usp=sharing)
 
 __SQL__
  * know how to write not very complex requests
