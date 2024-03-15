@@ -66,5 +66,6 @@ __Qase__
   * know how to create a personal access token for the GitHub API 
   * know how to use environment variables
 
-
+ __Trello__
+  * know how to create a workspace and a board, how to add a list and a card
 
